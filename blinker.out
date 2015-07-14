@@ -1,0 +1,39 @@
+ 
+
+Enter Dimensions of Bounding box (X rows, Y columns)
+	X:	3
+
+	Y:	3
+E E E 
+E E E 
+E E E 
+
+-----------------------------
+
+Enter the number of live cells to start with:	3
+
+ Enter x and y index of the cell:	1
+0
+
+ Enter x and y index of the cell:	1
+1
+
+ Enter x and y index of the cell:	1
+2
+
+How many iterations?(default of 5):	3
+E E E 
+F F F 
+E E E 
+
+-----------------------------
+E F E 
+E F E 
+E F E 
+
+-----------------------------
+E E E 
+F F F 
+E E E 
+
+-----------------------------
