@@ -28,7 +28,7 @@ void printgrid()
 			cout<<G[i][j]<<" ";
 		cout<<"\n";
 	}
-	cout<<"\nexiting printing";
+	//cout<<"\nexiting printing";
 }	
 int return_neighbour_count( int i, int j)
 {
