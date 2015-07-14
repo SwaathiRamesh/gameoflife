@@ -28,7 +28,7 @@ void printgrid()
 			cout<<G[i][j]<<" ";
 		cout<<"\n";
 	}
-	//cout<<"\nexiting printing";
+	cout<<"\n-----------------------------\n";
 }	
 int return_neighbour_count( int i, int j)
 {
@@ -62,14 +62,14 @@ main()
 	while(live_cells--)
 	{
 		int l,m;
-		cout<<"\n Enter x and y index of the cell";
+		cout<<"\n Enter x and y index of the cell:\t";
 		cin>>l>>m;
 		G[l][m]='F';
 	}
 	int times=5;
 	cout<<"\nHow many iterations?(default of 5):\t";
 	cin>>times;
-	printgrid(); 	
+	printgrid(); times--;	
 	while(times--)
 	{
 	copygrid(1);
