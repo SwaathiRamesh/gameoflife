@@ -10,3 +10,13 @@ The initial pattern is the first generation. The second generation evolves from 
 
 
 ( Explanation of Rules taken from http://www.math.cornell.edu/~lipa/mec/lesson6.html )
+
+-----------------------------------------------------------------------------
+
+Sample I/O files:
+
+1. Blinker- Example of an oscillator
+
+2. Integral Sign- Example of a Still life
+
+3. Lightweight Space Ship - Spaceship ( moves)
