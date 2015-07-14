@@ -7,4 +7,6 @@ The initial pattern is the first generation. The second generation evolves from 
 1.If the cell is alive, then it stays alive if it has either 2 or 3 live neighbors
 
 2.If the cell is dead, then it springs to life only in the case that it has 3 live neighbors
+
+
 ( Explanation of Rules taken from http://www.math.cornell.edu/~lipa/mec/lesson6.html )
